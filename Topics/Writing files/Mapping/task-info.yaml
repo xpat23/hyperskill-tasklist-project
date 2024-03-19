@@ -1,0 +1,29 @@
+type: matching
+captions:
+  - writeText()
+  - appendText()
+  - writeBytes()
+  - appendBytes()
+options:
+  - Used to write an array of bytes to file
+  - Adds text to a file without changing the existing content
+  - Adds the byte array to the content of the file
+  - Used to write and overwrite files
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |
+      // You can experiment here, it won’t be checked
+      
+      fun main(args: Array<String>) {
+        // put your code here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9714#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

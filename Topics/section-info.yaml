@@ -1,0 +1,14 @@
+content:
+  - Arrays
+  - String arrays
+  - For loop and arrays
+  - Property accessors
+  - Nullable and non-nullable types
+  - Avoiding NPEs. Null safety
+  - Type system
+  - Secondary constructor
+  - Inheritance
+  - toString()
+  - Jumps and returns
+  - Destructuring declarations
+  - Writing files

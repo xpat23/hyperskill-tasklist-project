@@ -1,0 +1,17 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    highlight_level: NONE
+    text: |-
+      // Write your code here. Do not import any libraries
+      val text = readLine()!!
+      val myFile = File(...)
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9717#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 18 Mar 2024 03:40:40 UTC"
+record: -1
+submission_language: kotlin
